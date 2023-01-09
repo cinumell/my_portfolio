@@ -1,0 +1,6 @@
+[submodule "backend_sanity_portfolio"]
+	path = backend_sanity_portfolio
+	url = https://github.com/cinumell/backend_sanity_portfolio
+[submodule "frontend_react"]
+	path = frontend_react
+	url = https://github.com/cinumell/frontend_react
